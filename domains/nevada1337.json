@@ -1,9 +1,10 @@
 {
   "owner": {
     "username": "frut1geraero",
-    "email": "nevada1337@duck.com"
+    "email": "nevada1337@tutamail.com"
   },
   "records": {
     "CNAME": "nevada1337.netlify.app"
-  }
+  },
+  "proxied": true
 }
